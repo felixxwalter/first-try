@@ -1,0 +1,8 @@
+Das
+ist
+der
+erste
+Text
+in
+meinem
+git
